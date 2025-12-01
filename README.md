@@ -72,8 +72,7 @@ Copy code
 ## 🚀 Live Demo (GitHub Pages)
 Once deployed using GitHub Pages, the live link will appear here:
 
-👉 **https://your-username.github.io/your-repo-name/**  
-*(Replace with your actual URL)*
+👉 https://github.com/krishnarednam/Globalsportsfoundation
 
 ---
 
